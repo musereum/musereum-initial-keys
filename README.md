@@ -1,4 +1,4 @@
-# Oracles PoA initial keys generation script
+# Soundchain PoA initial keys generation script
 
 ## Install node.js
 Install [nodejs](https://nodejs.org/en/download/package-manager/)
@@ -11,7 +11,7 @@ Install [nodejs](https://nodejs.org/en/download/package-manager/)
 -  Send 2 transactions in Parity `http://$BOOTNODE_IP:8180/` with contract owner
 
   (i) addition of initial key to Oracles contract
-  
+
   (ii) transfer of 0.1Eth to added initial key
 
 Expected result:
